@@ -2,6 +2,10 @@ Title
 AN EGI FORUM Softw Carpentry highlights
 Author
 C. A.
+Abstract
+This is an introduction to revision control.
 Introduction
-Conclusi
+GIT is a revision control sytem.
+As is Subversion and CVS
+Conclusion
 References
