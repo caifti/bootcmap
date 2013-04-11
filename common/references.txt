@@ -1,0 +1,4 @@
+Fagan (196) Desgin and Code Inspection to rede erros
+ in program development.
+Cohen (2006) Best Kept Secrets of Peer Review Code.
+
